@@ -1,0 +1,6 @@
+@Online_Survey_HostAddress = http://localhost:5113
+
+GET {{Online_Survey_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
